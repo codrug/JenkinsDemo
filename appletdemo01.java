@@ -5,3 +5,4 @@ public class appletdemo01 extends Applet{
     g.drawString("Hello, World!", 100, 150);
   }
 }
+/*<applet code= "appletdemo01.class" width="300" height="300"></applet>*/
