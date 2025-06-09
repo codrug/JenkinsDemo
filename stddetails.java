@@ -1,4 +1,4 @@
-class cmdlinename{
+class stddetails{
 	public static void main(String [] args){
 		String name = args[0];
 		String rno = args[1];
